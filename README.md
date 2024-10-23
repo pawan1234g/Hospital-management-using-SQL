@@ -1,5 +1,4 @@
 
-```markdown
 # Hospital Management Database
 
 This project defines a relational database schema for a hospital management system. The database contains multiple tables designed to manage patients, doctors, appointments, medical history, and other relevant data.
